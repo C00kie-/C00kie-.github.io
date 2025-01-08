@@ -4,8 +4,6 @@ categories: [Opensource, MISP, Information sharing]
 tags: [Opensource, MISP, CTI, Information sharing]
 ---
 
-## What are MISP sharing communities?
-
 Sharing communities bring together organizations that collaborate to share threat intelligence using the MISP  platform. Let's explore what these communities are and see some of the unique aspects of the MISP Project sharing model.
 
 Each sharing community is formed by entities who share the same goals and values. Sector-specific communities bring together groups of organizations from the same industry to share threat intelligence relevant to their particular sector (Financial sector for ex.). Some other communities involve government agencies, police forces, and other public organizations that collaborate to share threat intelligence (Military, NATO, CERTs). Others can involve closed groups of private organizations that share sensitive threat data among themselves. 
