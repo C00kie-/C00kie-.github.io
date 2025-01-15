@@ -26,7 +26,7 @@ The data layer consists of three key components:
 
 ## Context layer
 
-While intertwined with the data Layer in practice, a context layer adds crucial information to the event:
+While intertwined with the data layer in practice, a context layer adds crucial information to the event:
 
 **Tags and Taxonomies**
 - Provide additional context
