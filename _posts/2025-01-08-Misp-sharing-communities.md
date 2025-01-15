@@ -12,6 +12,8 @@ Each sharing community is formed by entities who share the same goals and values
 Sharing communities can have a long-term lifespan, with continuous evolution among their members, or be created for a short period to address specific needs.
 Sometimes some topical communities, such as the COVID-19 MISP, are established to tackle specific issues.
 
+## Benefits of sharing
+
 Participating in MISP communities offers several significant advantages to organizations. One of the primary benefits is an improved threat detection. Access to shared indicators of compromise enhances an organization's ability to detect and respond to threats more effectively. Mutualized information and correlation engines ensure that organizations have access to IoCs relevant to their needs. This way, MISP communities foster collaboration, enabling organizations to benefit from collective knowledge.
 This collaborative environment also leads to increased efficiency in analysis, as structured information is shared and used to combat information overload and streamline threat intelligence processing. We'll see the importance of structured information and standards in future posts. Stay tuned!
 
@@ -25,9 +27,11 @@ In contrast, Sharing Communities represent groups of users sharing information, 
 
 Several notable [MISP communities](https://www.misp-project.org/communities/) exist. Two examples are the CIRCL Private Sector Information Sharing Community (MISPPRIV), which brings together international organizations primarily targeting private companies, financial institutions, and IT security firms. In contrast, the FIRST Community focuses specifically on incident response teams, offering both technical and non-technical content.
 
+## Takeaway
 In summary, MISP communities are vital components of the threat intelligence ecosystem. They share a common set of goals and values.  Organizations have multiple options to control the distribution of threat intelligence due to the customization capabilities of the  platform and its information-sharing model. Sharing communities enable efficient and effective information sharing processes that supports detection, response, research, and collective action.
 
 Pauline Bourmeau
 
 visit: [MISP Project](https://www.misp-project.org/)
+[Cubessa](https://www.linkedin.com/company/cubessa/)
 
