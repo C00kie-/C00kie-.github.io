@@ -17,7 +17,7 @@ Previously, in the education sector, she served as a tutor at the University of 
 
 Pauline is also a paraclimber, a medal-winning athlete with a disability at the French Paraclimbing Championships, and the founder of DEFCON group Paris.
 
-refs: [vestadotai](https://www.vestadotai.com)
+Profesional services: [vestadotai](https://www.vestadotai.com)
 
 **Graduate Education**
 - Conservatoire National des Arts et Métiers, Criminology department.
